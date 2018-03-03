@@ -1,4 +1,4 @@
-# Program to detect object from a frame in a live stream
+# Program to detect object in a live stream
 This project is a part of academic curriculum.
 
 #### System Requirements:
